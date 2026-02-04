@@ -8,7 +8,7 @@ variable "region" {
 
 variable "ami" {
 
-  default = "ami-0a8e758f5e873d1c1" # Amazon Linux 2 (ap-south-1)
+  default = "ami-0a8e758f5e873d1c1"
 
 }
 
